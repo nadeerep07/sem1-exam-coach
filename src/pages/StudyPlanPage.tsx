@@ -1,3 +1,8 @@
+/**
+ * @file StudyPlanPage.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/pages/StudyPlanPage.tsx
+ */
 import React, { useState } from 'react';
 import { QuestionItem, SubjectMeta, StudyDurationOption } from '../types/exam';
 import { generateStudyPlan } from '../services/studyPlanner';
