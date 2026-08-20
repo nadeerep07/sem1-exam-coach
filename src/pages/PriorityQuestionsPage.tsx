@@ -1,3 +1,8 @@
+/**
+ * @file PriorityQuestionsPage.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/pages/PriorityQuestionsPage.tsx
+ */
 import React, { useState } from 'react';
 import { QuestionItem, SubjectMeta, PriorityLevel } from '../types/exam';
 import { QuestionCard } from '../components/question/QuestionCard';
