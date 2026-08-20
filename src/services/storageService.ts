@@ -1,3 +1,8 @@
+/**
+ * @file storageService.ts
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/services/storageService.ts
+ */
 import { UserProgressState } from '../types/exam';
 
 const STORAGE_KEY = 'bca_exam_coach_progress_v1';
