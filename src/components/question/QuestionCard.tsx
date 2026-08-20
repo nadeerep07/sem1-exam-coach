@@ -1,3 +1,8 @@
+/**
+ * @file QuestionCard.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/question/QuestionCard.tsx
+ */
 import React from 'react';
 import { Flame, CheckCircle2, BookOpen, FileText, Star, Clock } from 'lucide-react';
 import { QuestionItem } from '../../types/exam';
