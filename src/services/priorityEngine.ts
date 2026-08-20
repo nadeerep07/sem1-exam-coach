@@ -1,3 +1,8 @@
+/**
+ * @file priorityEngine.ts
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/services/priorityEngine.ts
+ */
 import { QuestionItem, PriorityLevel } from '../types/exam';
 
 export function calculatePriorityScore(q: QuestionItem): number {
