@@ -1,3 +1,8 @@
+/**
+ * @file AnswerViewer.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/question/AnswerViewer.tsx
+ */
 import React, { useState } from 'react';
 import { QuestionItem } from '../../types/exam';
 import {
