@@ -1,3 +1,8 @@
+/**
+ * @file App.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/App.tsx
+ */
 import React, { useState } from 'react';
 import { SUBJECTS } from './data/subjects';
 import { QUESTION_BANK } from './data/questionBank';
