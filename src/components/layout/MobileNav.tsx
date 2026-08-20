@@ -1,3 +1,8 @@
+/**
+ * @file MobileNav.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/layout/MobileNav.tsx
+ */
 import React from 'react';
 import { LayoutDashboard, CalendarCheck, BookOpen, Flame, ShieldAlert } from 'lucide-react';
 import { NavTab } from './Sidebar';
