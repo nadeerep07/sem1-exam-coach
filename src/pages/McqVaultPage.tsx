@@ -1,3 +1,8 @@
+/**
+ * @file McqVaultPage.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/pages/McqVaultPage.tsx
+ */
 import React, { useState } from 'react';
 import { QuestionItem, SubjectMeta } from '../types/exam';
 import { Award, CheckCircle2, HelpCircle, Flame, Eye, EyeOff, Sparkles, Filter } from 'lucide-react';
