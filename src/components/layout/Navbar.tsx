@@ -1,3 +1,8 @@
+/**
+ * @file Navbar.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/layout/Navbar.tsx
+ */
 import React from 'react';
 import { SubjectMeta, UserProgressState, ExamCountdownState } from '../../types/exam';
 import {
