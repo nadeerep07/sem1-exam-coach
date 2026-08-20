@@ -1,3 +1,8 @@
+/**
+ * @file questionBank.ts
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/data/questionBank.ts
+ */
 import { QuestionItem } from '../types/exam';
 
 export const QUESTION_BANK: QuestionItem[] = [
