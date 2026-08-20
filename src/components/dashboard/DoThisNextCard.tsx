@@ -1,3 +1,8 @@
+/**
+ * @file DoThisNextCard.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/dashboard/DoThisNextCard.tsx
+ */
 import React from 'react';
 import { Target, CheckCircle2, ArrowRight, Flame, Clock, FileText } from 'lucide-react';
 import { QuestionItem } from '../../types/exam';
