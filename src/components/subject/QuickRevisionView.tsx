@@ -1,3 +1,8 @@
+/**
+ * @file QuickRevisionView.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/subject/QuickRevisionView.tsx
+ */
 import React from 'react';
 import { Zap, BookOpen, Brain, CheckSquare, Layers } from 'lucide-react';
 import { QuestionItem } from '../../types/exam';
