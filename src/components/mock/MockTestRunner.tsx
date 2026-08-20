@@ -1,3 +1,8 @@
+/**
+ * @file MockTestRunner.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/mock/MockTestRunner.tsx
+ */
 import React, { useState } from 'react';
 import { FileCheck2, Award, Clock, CheckCircle2, XCircle, RotateCcw, Sparkles } from 'lucide-react';
 import { QuestionItem } from '../../types/exam';
