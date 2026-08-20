@@ -1,3 +1,8 @@
+/**
+ * @file studyPlanner.ts
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/services/studyPlanner.ts
+ */
 import { QuestionItem, StudySessionPlan, StudyTaskItem, StudyDurationOption } from '../types/exam';
 import { getSortedQuestionsForSubject } from './priorityEngine';
 
