@@ -1,3 +1,8 @@
+/**
+ * @file SubjectDetailPage.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/pages/SubjectDetailPage.tsx
+ */
 import React, { useState } from 'react';
 import { SubjectMeta, QuestionItem, UserProgressState } from '../types/exam';
 import { UNIT_MAPPINGS } from '../data/unitMappings';
