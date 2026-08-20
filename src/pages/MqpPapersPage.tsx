@@ -1,3 +1,8 @@
+/**
+ * @file MqpPapersPage.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/pages/MqpPapersPage.tsx
+ */
 import React, { useState } from 'react';
 import { QuestionItem, SubjectMeta } from '../types/exam';
 import { FileText, Eye, EyeOff, CheckCircle2, Award, ArrowRight, Printer } from 'lucide-react';
