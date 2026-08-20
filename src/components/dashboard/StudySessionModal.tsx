@@ -1,3 +1,8 @@
+/**
+ * @file StudySessionModal.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/dashboard/StudySessionModal.tsx
+ */
 import React, { useState } from 'react';
 import { X, Clock, Play, CheckCircle2, Flame, Sparkles } from 'lucide-react';
 import { QuestionItem, StudyDurationOption, StudySessionPlan } from '../../types/exam';
