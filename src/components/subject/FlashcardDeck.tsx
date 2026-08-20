@@ -1,3 +1,8 @@
+/**
+ * @file FlashcardDeck.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/subject/FlashcardDeck.tsx
+ */
 import React, { useState } from 'react';
 import { RotateCw, CheckCircle2, AlertCircle, Award, Sparkles, ChevronRight, ChevronLeft } from 'lucide-react';
 import { QuestionItem } from '../../types/exam';
