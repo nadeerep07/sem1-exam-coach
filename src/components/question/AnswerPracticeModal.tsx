@@ -1,3 +1,8 @@
+/**
+ * @file AnswerPracticeModal.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/question/AnswerPracticeModal.tsx
+ */
 import React, { useState } from 'react';
 import { X, Pencil, CheckCircle2, AlertCircle, Sparkles, RefreshCw } from 'lucide-react';
 import { QuestionItem } from '../../types/exam';
