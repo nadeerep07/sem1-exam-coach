@@ -1,3 +1,8 @@
+/**
+ * @file HeroNextExam.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/dashboard/HeroNextExam.tsx
+ */
 import React from 'react';
 import { Calendar, Clock, Flame, Zap, CheckCircle2, ArrowRight } from 'lucide-react';
 import { SubjectMeta, ExamCountdownState } from '../../types/exam';
