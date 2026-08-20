@@ -1,3 +1,8 @@
+/**
+ * @file subjects.ts
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/data/subjects.ts
+ */
 import { SubjectMeta } from '../types/exam';
 
 export const SUBJECTS: SubjectMeta[] = [
