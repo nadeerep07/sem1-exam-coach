@@ -1,3 +1,8 @@
+/**
+ * @file MqpSectionView.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/subject/MqpSectionView.tsx
+ */
 import React, { useState } from 'react';
 import { QuestionItem } from '../../types/exam';
 import { QuestionCard } from '../question/QuestionCard';
