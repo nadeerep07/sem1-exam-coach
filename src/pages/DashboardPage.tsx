@@ -1,3 +1,8 @@
+/**
+ * @file DashboardPage.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/pages/DashboardPage.tsx
+ */
 import React from 'react';
 import { SubjectMeta, QuestionItem, UserProgressState } from '../types/exam';
 import { getExamCountdown } from '../services/countdownEngine';
