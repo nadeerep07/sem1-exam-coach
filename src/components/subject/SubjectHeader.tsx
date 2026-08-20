@@ -1,3 +1,8 @@
+/**
+ * @file SubjectHeader.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/subject/SubjectHeader.tsx
+ */
 import React from 'react';
 import { Calendar, Clock, BookOpen, Flame, Award } from 'lucide-react';
 import { SubjectMeta } from '../../types/exam';
