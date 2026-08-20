@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Module documentation for push_file_by_file.py."""
 import subprocess
 import os
 import sys
