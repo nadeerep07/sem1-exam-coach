@@ -1,3 +1,8 @@
+/**
+ * @file ShortAnswersPage.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/pages/ShortAnswersPage.tsx
+ */
 import React, { useState } from 'react';
 import { QuestionItem, SubjectMeta } from '../types/exam';
 import { FileText, CheckCircle2, Award, Flame, Search } from 'lucide-react';
