@@ -1,3 +1,8 @@
+/**
+ * @file SettingsPage.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/pages/SettingsPage.tsx
+ */
 import React from 'react';
 import { UserProgressState, TargetGoalMode } from '../types/exam';
 import { Settings, Target, RefreshCw, Download, Upload, Shield } from 'lucide-react';
