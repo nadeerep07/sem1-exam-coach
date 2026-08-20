@@ -1,3 +1,8 @@
+/**
+ * @file countdownEngine.ts
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/services/countdownEngine.ts
+ */
 import { SubjectMeta, ExamCountdownState } from '../types/exam';
 
 export function getExamCountdown(subject: SubjectMeta, referenceDate: Date = new Date()): ExamCountdownState {
