@@ -1,3 +1,8 @@
+/**
+ * @file ExamScheduleOverview.tsx
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/components/dashboard/ExamScheduleOverview.tsx
+ */
 import React from 'react';
 import { Calendar, ChevronRight, CheckCircle, Clock } from 'lucide-react';
 import { SubjectMeta } from '../../types/exam';
