@@ -1,3 +1,8 @@
+/**
+ * @file unitMappings.ts
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/data/unitMappings.ts
+ */
 export interface UnitInfo {
   unitNumber: number;
   title: string;
