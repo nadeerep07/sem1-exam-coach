@@ -1,3 +1,8 @@
+/**
+ * @file exam.ts
+ * @description Module implementation for BCA Sem 1 Exam Coach platform.
+ * @module src/types/exam.ts
+ */
 export type QuestionStatus = 'not_started' | 'learning' | 'mastered' | 'needs_revision';
 export type PriorityLevel = 'critical' | 'very_important' | 'important' | 'normal' | 'low';
 export type AnswerDifficulty = 'simple' | 'standard' | 'detailed';
